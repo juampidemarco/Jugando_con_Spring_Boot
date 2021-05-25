@@ -1,0 +1,6 @@
+Usamos:
+java 11
+maven
+war
+mysql drive como dependencia
+JPA para mapear los datos
